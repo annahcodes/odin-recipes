@@ -1,6 +1,8 @@
 # The Odin-recipe Project
 This is the first project in [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) course.
 
+ __View [my project](https://annahcodes.github.io/odin-recipes/).__
+
 The project aims to help implement the HTML and git skills we have learnt so far.
 
 ## Topics Covered
