@@ -1,3 +1,25 @@
+/* === CSS RESETS ==== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
 /* === GENERAL STYLES === */
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -7,6 +29,8 @@ body {
   line-height: 1.5;
 }
 
-a {
-  text-decoration: none;
+.container {
+  width: 95%;
+  max-width: 1100px;
+  margin: 0 auto;
 }
