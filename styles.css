@@ -74,6 +74,45 @@ body {
   background-color: #f5511a;
 }
 
+/* ===== NAV ===== */
+nav {
+  background-color: #e65525;
+  overflow: auto;
+}
+
+.logo-link,
+nav ul li,
+nav ul li a {
+  display: inline-block;
+}
+
+.logo-link {
+  color: #f4f4f4;
+  margin-top: .7rem;
+}
+
+.logo-link h2 {
+  font-size: 1.45rem;
+}
+
+nav ul {
+  float: right;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  color: #f4f4f4;
+  font-size: .95rem;
+  font-weight: 700;
+  padding: 1rem;
+}
+
+nav ul li a:hover {
+  background-color: #d03d0b;
+}
 
 
 
