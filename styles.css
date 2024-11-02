@@ -46,12 +46,10 @@ body {
 
 }
 
-
 .banner-content {
   width: 70%;
-  max-width: 960px;
   margin: auto;
-
+  text-align: center;
 }
 
 .main-header {
@@ -82,7 +80,7 @@ body {
 
 
 /* === FOOTER ====*/
-.footer{
+.footer {
   background: #444;
   color: #f4f4f4;
   text-align: center;
