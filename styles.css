@@ -38,7 +38,7 @@ body {
 /* ==== HEADER ==== */
 .header {
   background: linear-gradient(to right,
-      rgba(226, 143, 79, 0.8),
+      rgba(213, 106, 24, 0.8),
       hsla(15, 83%, 49%, 0.8));
   padding: 8rem 0;
   color: #f4f4f4;
