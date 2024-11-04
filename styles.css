@@ -38,7 +38,7 @@ body {
 /* ==== HEADER ==== */
 .header {
   background: linear-gradient(to right,
-      rgba(213, 106, 24, 0.8),
+      rgba(213, 106, 24, 0.7),
       hsla(15, 83%, 49%, 0.8));
   padding: 8rem 0;
   color: #f4f4f4;
@@ -94,6 +94,7 @@ nav ul li a {
 .logo-link h2 {
   font-size: 1.45rem;
 }
+
 
 nav ul {
   float: right;
