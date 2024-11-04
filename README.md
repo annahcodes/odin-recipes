@@ -27,8 +27,13 @@ I got to practice working with git commands like:
 
 ### Challenges
 
-The biggest challenge was figuring out how to write commit messages the right way.
+The challenge I faced was figuring out how to write commit messages the right way.
 
-I was not sure whether I was being to repetitive or committing to many changes.
+How atomic is 'atomic' when making atomic commits?
 
-I believe I will get the hang of it as I keep building projects.
+### How I solved the challenge
+I used the git command `git shortlog` to go through my commit messages and get a feel of which messages were more clear and concise.
+
+Going through the article provided in the lesson also helped.
+
+
