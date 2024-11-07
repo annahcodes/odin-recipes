@@ -135,5 +135,9 @@ nav ul li a:hover {
   background: #444;
   color: #f4f4f4;
   text-align: center;
-  padding: 2rem;
+  padding: 2rem 0;
+}
+
+.footer-text{
+  margin: 0;
 }
