@@ -40,7 +40,7 @@ body {
   background: linear-gradient(to right,
       rgba(213, 106, 24, 0.7),
       hsla(15, 83%, 49%, 0.8));
-  padding: 8rem 0;
+  padding: 5rem 0;
   color: #f4f4f4;
   text-align: center;
 
@@ -58,6 +58,7 @@ body {
 }
 
 .banner-text {
+  font-size: 1.1rem;
   margin-bottom: 3rem;
 }
 
