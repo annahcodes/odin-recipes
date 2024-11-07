@@ -95,11 +95,16 @@ nav ul li a {
 
 .logo-link {
   color: #f4f4f4;
-  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.logo-link:hover{
+  background: #f5f5f5;
+  color: #e65525;;
 }
 
 .logo-link h2 {
-  font-size: 1.45rem;
+  font-size: 1.35rem;
   margin: 0;
 }
 
