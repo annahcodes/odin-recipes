@@ -161,13 +161,11 @@ nav ul li a:hover {
   cursor: pointer;
 }
 
-.recipe-card a:hover{
-  padding-bottom: 4px;
+.recipe-card a:hover {
   border-bottom: 1px solid #d03d0b;
-
 }
 
-.recipe-card + .recipe-card {
+.recipe-card+.recipe-card {
   margin-left: 1.1rem;
 }
 
